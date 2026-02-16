@@ -1,0 +1,28 @@
+body {
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+}
+
+.first, .second, .win, .lose {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items:center;
+}
+
+img {
+	height: 50%;
+}
+
+.button {
+	background-color: red;
+	color: white;
+	border: 1px solid green;
+	border-radius: 5px;
+	text-decoration: none;
+	height: 40px;
+	padding: 10px;
+}

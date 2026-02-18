@@ -14,7 +14,7 @@ body {
 }
 
 img {
-	height: 50%;
+	height: 50vw;
 }
 
 .button {
@@ -25,4 +25,5 @@ img {
 	text-decoration: none;
 	height: 40px;
 	padding: 10px;
+
 }

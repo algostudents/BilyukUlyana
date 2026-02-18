@@ -14,7 +14,7 @@ body {
 }
 
 img {
-	height: 500px;
+	height: 50%;
 }
 
 .button {
@@ -27,4 +27,5 @@ img {
 	padding: 10px;
 
 }
+
 
